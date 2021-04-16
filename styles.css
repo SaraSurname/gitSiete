@@ -1,0 +1,57 @@
+<style>	
+
+
+h1{
+text-align: center;
+}
+
+#titulo1{
+color:white;
+font-weight:bold;
+text-align:center;
+}
+
+.accordion{
+	text-align:center;
+}
+
+.accordion-button.collapsed {
+  background: #FE5151;
+}
+
+#titulo{
+color:black;
+font-weight:bold;
+text-align:center;
+font-family:Zapf Chancery;
+}
+
+#centerbody{
+color:black;
+font-weight:bold;
+text-align:center;
+font-family:Lucida;
+}
+
+#centerbody1{
+color:white;
+font-weight:bold;
+text-align:center;
+font-family:Lucida;
+}
+
+#centerbodyred{
+color:red;
+text-align:center;
+font-family:Impact; 
+}
+
+body{
+background-color:black;
+}
+
+hr { display: block; height: 1px;
+    border: 0; border-top: 5px solid #FFFFFF;
+    margin: 1em 0; padding: 0; }
+
+</style>
